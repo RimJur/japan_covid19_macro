@@ -1,3 +1,1 @@
-# japan_covid19_macro
-# japan_covid19_macro
-# japan_covid19_macro
+# Macroeconomic project: Monetary Stimulus during Covid-19
