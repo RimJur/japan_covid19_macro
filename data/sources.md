@@ -7,3 +7,9 @@
 - Unemployment rate from [https://data.worldbank.org/indicator/SL.UEM.TOTL.NE.ZS?locations=JP](https://data.worldbank.org/indicator/SL.UEM.TOTL.NE.ZS?locations=JP) found in _unemp_r.csv_
 - Real estate price index from [https://fred.stlouisfed.org/series/QJPN628BIS](https://fred.stlouisfed.org/series/QJPN628BIS) found in _real_est_p.csv_
 - Monetary base from [https://www.boj.or.jp/en/statistics/boj/other/mb/index.htm](https://www.boj.or.jp/en/statistics/boj/other/mb/index.htm) found in _monetary_base.csv_
+
+## Data cleaning:
+
+- GDP source numbers divided by 1000000000.
+- Money supply (M2) divided by 1000000.
+- Monetary base divided by 1000000.
